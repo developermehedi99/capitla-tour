@@ -10,6 +10,8 @@ const UserDetails = () => {
             <p>{email}</p>
             <h3>{phone}</h3>
             <p>{website}</p>
+            <p>{website}</p>
+            <p>{website}</p>
         </div>
     );
 };
